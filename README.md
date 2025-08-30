@@ -29,7 +29,32 @@ I’m creating a fun game where:
 - 🛒 There will be an **in-game shop**, **donations**, and **ads**  
 - 🎬 I’m adding **lots of animations** to make the gameplay exciting  
 
-🔗 Coming soon on **Yandex Games**!  
+---
+
+## 🎥 Preview (GIFs)
+
+<p align="center">
+  <!-- Gameplay Preview GIF -->
+  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="500" alt="Gameplay Preview"/>
+</p>
+
+<p align="center">
+  <!-- Character Animation GIFs -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Character Walking Animation"/>
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="250" alt="Gate Transformation Demo"/>
+</p>
+
+---
+
+## 🗺 Roadmap
+- [x] Character movement & walking animation  
+- [ ] Gate transformation mechanics  
+- [ ] Coin collection system  
+- [ ] Shop system & in-game economy  
+- [ ] Ads & donation integration  
+- [ ] Publish on Yandex Games  
+
+---
 
 ## 📫 Contact Me
 - 📧 Email: vahagn.avetisyan.2011@gmail.com
@@ -37,10 +62,10 @@ I’m creating a fun game where:
 
 ## 📌 About Me
 I'm passionate about:
-- Making games from scratch
-- Learning new Unity tricks
-- Publishing games on **Yandex Games**
-- One day starting my own gamedev studio 🎯
+- Making games from scratch  
+- Learning new Unity tricks  
+- Publishing games on **Yandex Games**  
+- One day starting my own gamedev studio 🎯  
 
 ---
 
