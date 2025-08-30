@@ -17,12 +17,19 @@
 - 🧠 C# programming
 - 🌍 Git & GitHub
 
-## 🧩 Projects
+## 🧩 Current Project  
 
-### 🚗 Car Parking Puzzle Game (In Progress)
-A logic puzzle game where you need to move a car out of the parking lot with limited moves.
+### 🕹 Yandex Games – Character & Gates Adventure  
+I’m creating a fun game where:  
+- 👤 The main character runs forward with **walking animations**  
+- 🚪 On the way, he meets **two different gates**  
+  - Some gates make him **taller or fatter**  
+  - Others **shrink or slim him down**  
+- 💰 The player collects **coins** along the way  
+- 🛒 There will be an **in-game shop**, **donations**, and **ads**  
+- 🎬 I’m adding **lots of animations** to make the gameplay exciting  
 
-🔗 Coming soon!
+🔗 Coming soon on **Yandex Games**!  
 
 ## 📫 Contact Me
 - 📧 Email: vahagn.avetisyan.2011@gmail.com
@@ -32,6 +39,9 @@ A logic puzzle game where you need to move a car out of the parking lot with lim
 I'm passionate about:
 - Making games from scratch
 - Learning new Unity tricks
+- Publishing games on **Yandex Games**
 - One day starting my own gamedev studio 🎯
 
-Thanks for visiting!
+---
+
+> *“Big dreams start with small steps — I’m building mine one line of code at a time.”*
